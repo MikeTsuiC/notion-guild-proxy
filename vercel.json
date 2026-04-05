@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://chipped-ceres-a98.notion.site/33486ac4658d80aa9a43f4d2badfbb24"
+    }
+  ]
+}
